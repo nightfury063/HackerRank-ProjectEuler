@@ -35,7 +35,7 @@ int collatz(long long n){
 }
 
 int main(){
-
+	//backtracking
 	for (int i = 1; i < MAX; ++i)
 	{
 		
